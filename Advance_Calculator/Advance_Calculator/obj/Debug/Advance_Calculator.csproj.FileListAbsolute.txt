@@ -1,0 +1,7 @@
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\bin\Debug\Advance_Calculator.exe.config
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\bin\Debug\Advance_Calculator.exe
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\bin\Debug\Advance_Calculator.pdb
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\obj\Debug\Advance_Calculator.csprojAssemblyReference.cache
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\obj\Debug\Advance_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\obj\Debug\Advance_Calculator.exe
+C:\Users\Tech-W70a\Engineering26\week5\Day2\sparta_global_Advance_Calculator\Advance_Calculator\Advance_Calculator\obj\Debug\Advance_Calculator.pdb
